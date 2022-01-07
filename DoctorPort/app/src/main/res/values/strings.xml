@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DoctorPort</string>
+    <string name="home">首页</string>
+    <string name="knowledge_center">知识中心</string>
+    <string name="my_patient">我的患者</string>
+    <string name="mine">我的</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_hello">首页碎片</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
